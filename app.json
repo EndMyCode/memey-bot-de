@@ -1,0 +1,11 @@
+  
+{
+  "name": "Memey Bot",
+  "description": "Memey Bot",
+  "repository": "https://github.com/EndMyCode/memey-bot-de/",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku-softtrends/dotnetcore2.main.buildpack.git"
+    }
+  ]
+}
